@@ -1,0 +1,22 @@
+{
+  "anti_aliasing": true,
+  "atmosphere": "default",
+  "bvh_build_time": "14.791µs",
+  "cpu_usage": 7.2,
+  "depth_of_field": false,
+  "height": 900,
+  "max_depth": 50,
+  "memory_usage": 6121736,
+  "output_file": "output/final_silver_prism_purple_cube.png",
+  "pixels_per_second": 18712.82178963073,
+  "rays_per_second": 1871282.178963073,
+  "recursive_reflections": true,
+  "render_time": "57.71443575s",
+  "samples": 100,
+  "scene_file": "",
+  "setup_time": "50µs",
+  "soft_shadows": true,
+  "total_time": "57.71448575s",
+  "width": 1200,
+  "worker_count": 6
+}
